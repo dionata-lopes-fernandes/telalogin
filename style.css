@@ -1,0 +1,24 @@
+body{
+    background-image:url(https://wallpapers.com/images/hd/cool-roblox-poster-for-xbox-indsfaklbyb8fe1b.jpg);
+    background-size: cover ;
+    text-align: center;
+    margin-top: 10%;
+    color: rgb(red, green, blue);
+    font-size: 25px;
+    text-shadow: 2px 2px#f6f2f2;
+    }
+    h1{
+        color: rgb(red, green, blue);
+        text-shadow: 4px 4pxa#fef9f9;
+    
+    }
+    button{
+        background-color: rgb(red, green, blue);
+        width: 250px;
+        height: 30px;
+    }
+    
+    input{
+        width: 250px;
+        height: 30px;
+    }
